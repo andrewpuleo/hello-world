@@ -10,3 +10,5 @@ San Luis Obispo
 CPE123, CPE101
 
 Python, Java, HTML, CSS, Javascript
+
+Nevada City, CA
